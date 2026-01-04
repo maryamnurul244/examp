@@ -1,5 +1,5 @@
-# examp
-examp perkuliahan
+# soal uas
+urutan angka di mulai Dari kelas A berdasarkan nomer absensi
 
 
 | No  | Subjek Besar Database           |
